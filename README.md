@@ -1,2 +1,2 @@
 # Open-World-Text-Adventure
-An open world text based adventure game made with Python.
+A simple open world text based adventure game made with Python.
