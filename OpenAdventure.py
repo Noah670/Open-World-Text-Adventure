@@ -1,5 +1,3 @@
-
-
 answer = raw_input(
     " Traveler, Would you like to start playing and enter the digital world? [ yes / no] ")
 
